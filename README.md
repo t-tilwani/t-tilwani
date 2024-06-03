@@ -9,7 +9,6 @@
 - HTML, CSS And Javascript
 - Solidworks (3D Modelling)
 - 3D Printing(hardware and also just creating new things)
-- 💞️ I’m looking to collaborate on ...
 
 
 <!---
