@@ -6,7 +6,7 @@
 - GYM 
 - Gaming(Cod, singleplayer RPGs)
 - 🌱 I’m currently learning ...
-- React JS
+- TypeScript
 - Solidworks (3D Modelling)
 - 3D Printing(hardware and also just creating new things)
 
